@@ -2,7 +2,7 @@
 # PyBoard directly using I2C bus. As such, it's more
 # intended to be an I2C example, rather than accelerometer
 # example. For the latter, using pyb.Accel class is
-# much easier.
+# much easier to use.
 
 from machine import Pin
 from machine import I2C
